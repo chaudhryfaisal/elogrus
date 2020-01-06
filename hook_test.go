@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/olivere/elastic/v7"
+	"github.com/olivere/elastic"
 	"github.com/sirupsen/logrus"
 )
 
